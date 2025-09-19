@@ -1,0 +1,8 @@
+.DS_Store/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Specific files and folders
+01_fundamentos.ipynb
+sesion_01/
